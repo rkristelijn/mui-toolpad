@@ -1,12 +1,12 @@
 import Typography from '@mui/material/Typography';
 
 
-export default async function OrdersPage() {
+export default async function QuotesPage() {
   
 
   return (
     <Typography>
-      Welcome to the Toolpad orders!
+      Welcome to the Toolpad quotes!
     </Typography>
   );
 }

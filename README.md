@@ -12,3 +12,6 @@ This is a playground for [MUI Toolpad](https://mui.com/toolpad/core/introduction
 - set the variables in `.env.local` - see the comments in that file
 - `npm start` - start the app
 
+## Technical Design
+
+![Class Diagram](./docs/toolpad.svg)
